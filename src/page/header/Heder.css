@@ -1,0 +1,15 @@
+header{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(188, 184, 184);
+}
+.box{
+    padding: 10px;
+    width: 100px;
+    cursor: pointer;
+}
+.btn{
+    /* width: 100px; */
+    border-bottom: 3px solid red;
+}

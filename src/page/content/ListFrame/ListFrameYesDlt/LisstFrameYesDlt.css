@@ -1,0 +1,25 @@
+.box-Content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;
+    height: 20px;
+    margin-top: 10px;
+}
+.left-Content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+.content{
+    text-decoration: line-through;
+}
+.iconsDlt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: aliceblue;
+    background-color: white;
+    
+}
